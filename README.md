@@ -57,6 +57,18 @@ Apaixonado por Inteligência Artificial, Visão Computacional e Desenvolvimento 
 
 ## 📊 Estatísticas do GitHub
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresPedroBit&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800)
+![Streak Stats](https://streak-stats.demolab.com?user=SoaresPedroBit&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)
 
-![Streak](https://streak-stats.demolab.com?user=SoaresPedroBit&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)
+<details>
+<summary>📈 Linguagens mais usadas</summary>
+<br>
+
+| Linguagem | Uso aproximado |
+|---|---|
+| Java | Back-end com Spring Boot (CRUD, APIs REST) |
+| Python | Machine Learning, YOLO, Data Science |
+| JavaScript / TypeScript | Front-end, Angular, Astro |
+| Jupyter Notebook | Análise e limpeza de dados |
+| HTML / CSS | Landing pages e portfólio |
+
+</details>
