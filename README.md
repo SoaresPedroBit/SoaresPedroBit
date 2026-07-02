@@ -57,5 +57,6 @@ Apaixonado por Inteligência Artificial, Visão Computacional e Desenvolvimento 
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoaresPedroBit&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresPedroBit&layout=compact&theme=dark&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SoaresPedroBit&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800)
+
+![Streak](https://streak-stats.demolab.com?user=SoaresPedroBit&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)
