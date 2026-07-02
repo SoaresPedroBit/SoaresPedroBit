@@ -7,7 +7,7 @@ Apaixonado por Inteligência Artificial, Visão Computacional e Desenvolvimento 
 
 ## 🚀 Sobre mim
 
-- 🎓 Cursando **Engenharia de Software** (4º período)
+- 🎓 Cursando **Engenharia de Software** (8º período)
 - 🧠 TCC em **Visão Computacional** — detecção de afogamento em piscinas com YOLO (yolo11n, yolo26n, yolo26s)
 - 💻 Experiência com **Back-end (Java/Spring Boot)** e **Front-end (JavaScript, TypeScript, HTML, Astro)**
 - 📊 Interesse em **Data Science**, tratamento de dados e pipelines de ML
